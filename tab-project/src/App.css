@@ -1,0 +1,63 @@
+body {
+  font-family: 'Nunito Sans',
+  sans-serif;
+}
+.App {
+  text-align: center;
+}
+
+.nav-link.active {
+  border-bottom: 5px solid #8800C7 !important;
+  border: none;
+}
+
+.nav-link {
+  border: none;
+  font-size: 17px;
+}
+
+.nav-link:hover {
+  border: none;
+}
+
+a {
+  color: black !important;
+}
+
+.main-content {
+  border: 1px solid #D3D3D3;
+  width: 100%;
+  text-align: left;
+}
+
+.tab-content {
+  text-align: center;
+}
+
+.container {
+  margin: auto;
+}
+
+.nav-item {
+  border: none !important;
+}
+h1 {
+  font-weight: 400;
+  font-size: 24px;
+}
+
+p {
+  font-size: 15px;
+}
+
+.tab-container {
+  padding: 20px;
+}
+
+.button-wrapper {
+  text-align: right;
+}
+
+button {
+  font-size: 15px !important;
+}
